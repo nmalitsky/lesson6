@@ -1,0 +1,14 @@
+{
+  "name": "lesson6",
+  "description": "netology lesson6 ND-2",
+  "repository": {},
+  "author": "Nikolay Malitsky <malitsky@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
