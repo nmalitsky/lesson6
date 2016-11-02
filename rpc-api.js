@@ -100,4 +100,4 @@ app.all('/*', (req, res) => {
 });
 
 app.listen(port);
-console.log('Listening REST API on port ' + port);
+console.log('Listening JSON-RPC API on port ' + port);
